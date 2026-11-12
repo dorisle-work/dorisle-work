@@ -33,7 +33,7 @@ I am a **Fullstack Software Engineer & Technical Lead** based in Ho Chi Minh Cit
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dorisle-work&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=dorisle-work&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
